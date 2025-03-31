@@ -1,1 +1,1 @@
-generated a calculator usingi html css and javascript.
+Generated a calculator using html css and javascript.
